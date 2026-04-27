@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Lukupankki",
+    "slug": "lukupankki",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["web"],
+    "web": {
+      "favicon": "./assets/app-icon-main.png"
+    }
+  }
+}

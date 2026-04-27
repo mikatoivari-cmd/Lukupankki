@@ -1,0 +1,12 @@
+{
+  "name": "lukupankki",
+  "version": "1.0.0",
+  "main": "App.js",
+  "dependencies": {
+    "expo": "*",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.73.6",
+    "dayjs": "1.11.7"
+  }
+}
